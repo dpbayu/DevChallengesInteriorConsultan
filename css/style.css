@@ -78,6 +78,7 @@ nav .nav-links li a {
 }
 
 .container .subtitle h2 {
+    margin-bottom: 20px;
     position: relative;
     color: #ffffff;
     width: auto;
@@ -85,6 +86,16 @@ nav .nav-links li a {
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
+    line-height: 29px;
+}
+
+.container .subtitle h3 {
+    position: relative;
+    color: #ffffff;
+    width: auto;
+    font-family: Lora;
+    font-weight: 800;
+    font-size: 24px;
     line-height: 29px;
 }
 
@@ -99,7 +110,7 @@ nav .nav-links li a {
     position: relative;
     margin-bottom: 20px;
     margin-top: -75px;
-    margin-left: 300px;
+    margin-left: 25%;
     background: #181719;
     width: 350px;
     height: 125px;
