@@ -41,7 +41,6 @@
         clip-path: circle(100px at 90% -10%);
         -webkit-clip-path: circle(100px at 90% -10%);
         transition: all 1s ease-out;
-        pointer-events: none;
         z-index: 1;
     }
 
@@ -76,6 +75,7 @@
     }
 
     nav .nav-links li.fade {
+        overflow-x: hidden;
         opacity: 1;
     }
 
@@ -119,7 +119,7 @@
         font-size: 12px;
         line-height: 17px;
     }
-    
+
     .container .profileBox .job h2 {
         margin: 0 50px;
         font-family: Montserrat;
