@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchallengesmyteampage.netlify.app/">
+    <a href="https://devchallengesinteriornavbar.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/Rng2szteW6cHAhKQXcnf">
+    <a href="https://devchallenges.io/solutions/DZbWbMBoBpKPq0T2uJ69">
       Solution
     </a>
     <span> | </span>
@@ -40,7 +40,7 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo? https://devchallengesmyteampage.netlify.app/
+- Where can I see your demo? https://devchallengesinteriornavbar.netlify.app
 - What was your experience? Very fun and I hope to increase my passion in coding
 - What have you learned/improved? Many things, deepen html and css
 - Your wisdom? Can get better every day
