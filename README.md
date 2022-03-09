@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{My Team Page}</h1>
+<h1 align="center">{Interior Consultan}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="https://devchallengesmyteampage.netlify.app/" target="_blank">Devchallenges.io</a>.
