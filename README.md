@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/dpbayu/devchallengeInteriorNavbar/issues/1#issue-1164347027)
+![Screenshot 2022-03-10 022450](https://user-images.githubusercontent.com/74140729/157516964-3733ffec-7fed-4b29-a7b7-0ad23f55e72f.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
