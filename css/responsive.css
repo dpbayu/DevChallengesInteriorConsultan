@@ -23,7 +23,7 @@
         width: 100%;
         justify-content: space-evenly;
         align-items: center;
-        background-color: rgb(180, 78, 232);
+        background-color: #131313;
         z-index: 1;
         transform: translate(100%);
         transition: all 1s;
