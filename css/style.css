@@ -8,7 +8,7 @@
 }
 
 body {
-    background: #181719;
+    background: #000000;
     font-family: Montserrat;
     height: 100%;
     width: 100%;
@@ -16,7 +16,7 @@ body {
 
 nav {
     display: flex;
-    background-color: rgb(180, 78, 232);
+    background-color: #131313;
     justify-content: space-around;
     padding: 20px 0;
 }
@@ -169,10 +169,10 @@ nav .menu-toggle input:checked~span:nth-child(3) {
     margin-bottom: 20px;
     margin-top: -75px;
     margin-left: 25%;
-    background: #181719;
+    background: #0c0c0c;
     width: 350px;
     height: 125px;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+    box-shadow: 5px 5px 5px rgba(55, 55, 55, 0.316);
 }
 
 .container .profileBox img {
